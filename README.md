@@ -49,3 +49,7 @@ So that the software can be used for many different airports
 I would like a default airport capacity that can be overridden as appropriate
 ```
 
+Test Coverage
+=============
+
+[![Coverage Status](https://coveralls.io/repos/github/Finble/airport2/badge.svg?branch=master)](https://coveralls.io/github/Finble/airport2?branch=master)
